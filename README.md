@@ -1,2 +1,2 @@
 # illuminator pixels
-replaces illuminator with a beeg 1x1 pixel
+replaces illuminator (and sorters) with a beeg 1x1 pixel
